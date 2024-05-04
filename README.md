@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TiCkShot
-- 👀 I’m interested in Desktop and Mobile app
+- 👀 I’m interested in Webapps and LLMs
 - 🌱 I’m currently learning Javascript and Japanese
 
 <!---
